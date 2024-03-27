@@ -4,11 +4,19 @@ import "./Footer.css";
 export default function Footer() {
   return (
     <div className="Footer">
-      <a href="https://github.com/Alessandra198/meteo" target="_blank">
+      <a
+        href="https://github.com/Alessandra198/meteo"
+        target="_blank"
+        rel="noreferrer"
+      >
         Open-source code
       </a>
       , by {""}
-      <a href="https://github.com/Alessandra198" target="_blank">
+      <a
+        href="https://github.com/Alessandra198"
+        target="_blank"
+        rel="noreferrer"
+      >
         Alessandra Rinaldo
       </a>
     </div>
