@@ -8,7 +8,6 @@
   opacity: 0.4;
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 10px;
 }
 
 .weather-forecast-icon {
@@ -27,4 +26,5 @@
 
 .weather-forecast-temperature {
   padding: 0 10px;
+  margin-bottom: 10px;
 }
