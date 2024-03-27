@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div className="Footer">
       <a
-        href="https://github.com/Alessandra198/meteo"
+        href="https://github.com/Alessandra198/week-four-react"
         target="_blank"
         rel="noreferrer"
       >
