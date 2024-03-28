@@ -6,7 +6,7 @@ import City from "./City";
 import Forecast from "./Forecast";
 import Footer from "./Footer";
 
-export default function App() {
+function App() {
   return (
     <div className="App">
       <Search />
@@ -16,3 +16,5 @@ export default function App() {
     </div>
   );
 }
+
+export default App;
